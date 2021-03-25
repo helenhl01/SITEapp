@@ -6,7 +6,7 @@ Submitted by: **Helen Liu**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://github.com/helenhl01/SITEapp
 
 ## Required Functionality
 
